@@ -1,0 +1,14 @@
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\TextModifer.exe
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\TextModifer.pdb
+F:\VSPROJECTS\TextModifer\TextModifer\obj\Debug\TextModifer.csprojResolveAssemblyReference.cache
+F:\VSPROJECTS\TextModifer\TextModifer\obj\Debug\TextModifer.csproj.CoreCompileInputs.cache
+F:\VSPROJECTS\TextModifer\TextModifer\obj\Debug\TextModifer.exe
+F:\VSPROJECTS\TextModifer\TextModifer\obj\Debug\TextModifer.pdb
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\Newtonsoft.Json.dll
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\Newtonsoft.Json.xml
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\LINQPad.exe
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\LINQPad.exe.config
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\MoreLinq.dll
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\System.ValueTuple.dll
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\MoreLinq.xml
+F:\VSPROJECTS\TextModifer\TextModifer\bin\Debug\System.ValueTuple.xml
